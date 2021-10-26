@@ -111,7 +111,7 @@ a.howFyloWorks:active {
 .first_form {
   display: flex;
   flex-direction: column;
-  max-width: 370px;
+  max-width: 320px;
   margin: auto;
   position: relative;
 }
@@ -460,6 +460,9 @@ div.email img {
   }
   .social {
     margin-top: 5rem;
+  }
+  .firstoftype {
+    min-width: unset;
   }
 }
 
